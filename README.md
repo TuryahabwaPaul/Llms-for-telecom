@@ -5,7 +5,7 @@ This notebook demonstrates the process of fine-tuning the Phi-2 language model f
 1. **Setup**: Install required libraries and mount Google Drive
 2. **Model Preparation**: Load and prepare the Phi-2 model for fine-tuning
 3. **Data Processing**: Load and format the training data
-4. **Training**: Fine-tune the model using LoRA
+4. **Training**: Fine-tune the model using QLoRA
 5. **Evaluation**: Monitor training and validation loss
 6. **Inference**: Test the model on new questions using various prompting strategies
 7. **Output**: Generate predictions and create submission files
