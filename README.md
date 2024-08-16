@@ -12,9 +12,9 @@ This notebook demonstrates the process of fine-tuning the Phi-2 language model f
 
 ## Key Components
 
-- **Model**: tiiuae/falcon-7b
+- **Model**: phi 2
 - **Quantization**: 4-bit quantization for efficient training
-- **Fine-tuning Method**: LoRA (Low-Rank Adaptation)
+- **Fine-tuning Method**: QLoRA 
 - **Prompting Strategies**:
   - Basic prompting
   - Chain of thought
